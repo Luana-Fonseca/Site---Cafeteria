@@ -31,6 +31,10 @@ Este é o site institucional da cafeteria Ctrl+Coffee, uma plataforma que aprese
 5. **Avaliações**: Depoimentos de clientes
 6. **Localização**: Mapa e endereço
 
+### Acesse o site aqu:
+
+https://luana-fonseca.github.io/Site---Cafeteria/
+
 ## 🔧 Como Executar
 
 1. Faça o download ou clone do repositório
